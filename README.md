@@ -1,9 +1,9 @@
 # Ciao 👋, sono **Mattia Ramondo**
 
-### Studente di Informatica @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time · AC Milan fan
+### Studente di Informatica (B.Sc.) @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" alt="Penguins dancing" width="300"/>
+  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="Penguins sliding" width="300"/>
 </p>
 
 > **“Code is like humor. When you have to explain it, it’s bad.”** – *Cory House*
@@ -19,7 +19,9 @@
 | PHP               | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)       |
 | MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white) |
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaRamondo&layout=compact&langs_count=6" alt="Top Langs" />
+</div>
 
 <br/>
 
@@ -32,11 +34,10 @@
 
 
 
-<br/>
-
 ## 🧩 Curiosità su di me
 
 * ⚽ Tifoso sfegatato dell’**AC Milan** (forza Diavolo!)
+* ♟️ Appassionato di **scacchi** (alla ricerca costante di nuove aperture)
 * ☕ Lavoro come **barista**
 * 🖧 Mi affascinano **sistemi & reti**, il mondo **cloud** e lo **sviluppo web**
 * 🐧 Linux lover
@@ -47,7 +48,8 @@
 
 * ✅ Conseguire con successo la laurea triennale
 * 🌍 **Vivere all’estero** (Nord Europa? Canada?) e lavorare nel campo cloud/devops
-* ✈️ **Viaggiare il mondo** zaino in spalla, scoprendo culture
+* ✈️ **Viaggiare il mondo** zaino in spalla, scoprendo culture e caffè locali
+
 
 <br/>
 
