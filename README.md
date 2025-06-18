@@ -41,9 +41,8 @@
 
 <br/>
 
-## ✨ Obiettivi 2025
+## ✨ Obiettivi
 
-* ✅ Conseguire con successo la laurea triennale
 * 🌍 **Vivere all’estero** (Nord Europa? Canada?) e lavorare nel campo cloud/devops
 * ✈️ **Viaggiare il mondo** zaino in spalla, scoprendo culture e caffè locali
 
