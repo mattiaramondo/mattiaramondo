@@ -1,6 +1,6 @@
 # Ciao 👋, sono **Mattia Ramondo**
 
-### Studente di Informatica (B.Sc.) @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time · AC Milan fan
+### Studente di Informatica @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia
 
 <p align="center">
   <!-- GIF sourced from Tenor: replace the URL below with the *direct* .gif link you copied -->
