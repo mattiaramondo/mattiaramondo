@@ -1,6 +1,6 @@
 # Ciao 👋, sono **Mattia Ramondo**
 
-### Studente di Informatica (B.Sc.) @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time 
+### Studente di Informatica @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time 
 
 <p align="center">
   <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="Penguins sliding" width="300"/>
