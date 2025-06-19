@@ -1,8 +1,11 @@
 # Ciao 👋, sono **Mattia Ramondo**
 
-### Studente di Informatica @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time 
+### Studente di Informatica (B.Sc.) @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time · AC Milan fan
 
-<div class="tenor-gif-embed" data-postid="27503349" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/pinguim-madagascar-se-escondendo-hiding-gif-27503349">Pinguim Madagascar GIF</a>from <a href="https://tenor.com/search/pinguim-gifs">Pinguim GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <!-- GIF sourced from Tenor: replace the URL below with the *direct* .gif link you copied -->
+<img src="https://media1.tenor.com/m/DSBELANb0ycAAAAd/pinguim-madagascar.gif" alt="Penguin hiding Madagascar" width="300"/>
+</p>
 
 > **“Code is like humor. When you have to explain it, it’s bad.”** – *Cory House*
 
@@ -17,6 +20,9 @@
 | PHP               | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)       |
 | MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white) |
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaRamondo&layout=compact&langs_count=6" alt="Top Langs" />
+</div>
 
 <br/>
 
@@ -28,22 +34,20 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/tuo_username)
 
 
+<br/>
 
 ## 🧩 Curiosità su di me
 
-* ⚽ Tifoso sfegatato dell’**AC Milan** (forza Diavolo!)
-* ♟️ Appassionato di **scacchi** (alla ricerca costante di nuove aperture)
+* ⚽ Tifoso dell’**AC Milan** 
 * ☕ Lavoro come **barista**
 * 🖧 Mi affascinano **sistemi & reti**, il mondo **cloud** e lo **sviluppo web**
-* 🐧 Linux lover
 
 <br/>
 
 ## ✨ Obiettivi
 
-* 🌍 **Vivere all’estero** (Nord Europa? Canada?) e lavorare nel campo cloud/devops
-* ✈️ **Viaggiare il mondo** zaino in spalla, scoprendo culture e caffè locali
-
+* 🌍 **Vivere all’estero** e lavorare nel campo cloud/devops
+* ✈️ **Viaggiare il mondo** zaino in spalla, scoprendo culture
 
 <br/>
 
