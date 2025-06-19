@@ -2,9 +2,7 @@
 
 ### Studente di Informatica @ Università degli Studi dell'Aquila · 21 anni · Casoli (CH), Italia · Barista part‑time 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="Penguins sliding" width="300"/>
-</p>
+<div class="tenor-gif-embed" data-postid="27503349" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/pinguim-madagascar-se-escondendo-hiding-gif-27503349">Pinguim Madagascar GIF</a>from <a href="https://tenor.com/search/pinguim-gifs">Pinguim GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 > **“Code is like humor. When you have to explain it, it’s bad.”** – *Cory House*
 
